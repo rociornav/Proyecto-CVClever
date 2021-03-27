@@ -14,22 +14,22 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 # Título del Proyecto
 
-#### Curso Escolar 20XX-20XX
-#### Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
-#### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
-#### Fecha de Inicio: DD-MM-YYYY
-#### Fecha de Finalización: DD-MM-YYYY
+#### Curso Escolar 2020-2021
+#### Autor: [Del Real Navarro, Rocío](https://github.com/rociornav/Proyecto-CVClever)
+#### Tutor: [Pedro Barco](https://github.com/pbarcob)
+#### Fecha de Inicio: 11-03-2021
+#### Fecha de Finalización: DD-06-2021
 
 ## Breve descripción del proyecto
 
-Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es **buscar un problema o necesidad a la que darle solución**, y estos **están por todas partes**. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en **cómo puedes resolverlos**.
+Debido a la gran cantidad de tiempo que invertimos inicialmente en crear el curriculum perfecto tratando de ser creativos, y a la vez originales buscando el diseño más atractivo e intentando organizar la información de forma visual sin tratar de aburrir al encargado de Recursos Humanos, con el fin de que de un vistazo se haga una idea aproximada de las cualidades que poseemos para tener una oportunidad de tener una primera entrevista en su empresa. De eso se encarga CVClever, de facilitarnos esa tarea.
 
-En este apartado el alumno debe hacer una breve descripción del proyecto que vaya a realizar. Esta descripción no será ua descripción detallada, será una presentación general con no más de 10 líneas.
+En primer lugar, será necesario registrarse en la aplicación para insertar los datos necesarios dando una imagen profesional completa sin excederse, posteriormente, estos datos serán procesados por la misma tras la selección de una de las plantillas que ofrecemos para diseñar el curriculum. Habrá opciones para poder procesarlos en 1 sola página o en más de una si así lo desea el usuario. Hay que tener en cuenta que en el caso de que el usuario ingrese demasiados datos a los que una plantilla de diseño en concreto pueda procesar, será notificado pidiéndole que elija otro diseño.
 
 ## Definir el objetivo de la aplicación
-**Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
+**Crear un buen curriculum de forma flexible, atractiva y rápida.**:
 
-- **¿Qué va a hacer la aplicación?**
+- **¿Qué va a hacer la aplicación?** Diseñar curriculums
 - **¿Cuál es su atractivo principal?** 
 - **¿Qué problema concreto va a resolver?** 
 - **¿Qué necesidad va a cubrir?**
