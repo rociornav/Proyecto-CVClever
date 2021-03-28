@@ -22,17 +22,17 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 ## Breve descripción del proyecto
 
-Debido a la gran cantidad de tiempo que invertimos inicialmente en crear el curriculum perfecto tratando de ser creativos, y a la vez originales buscando el diseño más atractivo e intentando organizar la información de forma visual sin tratar de aburrir al encargado de Recursos Humanos, con el fin de que de un vistazo se haga una idea aproximada de las cualidades que poseemos para tener una oportunidad de tener una primera entrevista en su empresa. De eso se encarga CVClever, de facilitarnos esa tarea.
+Debido a la gran cantidad de tiempo que invertimos inicialmente en crear el curriculum perfecto tratando de ser creativos, y a la vez originales buscando el diseño más atractivo e intentando organizar la información de forma visual sin tratar de aburrir al encargado de Recursos Humanos, con el fin de que con un vistazo se haga una idea aproximada de las cualidades que poseemos para tener una oportunidad de conseguir una primera entrevista en su empresa. De eso se encarga CVClever, de facilitarnos esa tarea.
 
-En primer lugar, será necesario registrarse en la aplicación para insertar los datos necesarios dando una imagen profesional completa sin excederse, posteriormente, estos datos serán procesados por la misma tras la selección de una de las plantillas que ofrecemos para diseñar el curriculum. Habrá opciones para poder procesarlos en 1 sola página o en más de una si así lo desea el usuario. Hay que tener en cuenta que en el caso de que el usuario ingrese demasiados datos a los que una plantilla de diseño en concreto pueda procesar, será notificado pidiéndole que elija otro diseño.
+En primer lugar, será necesario registrarse en la aplicación para insertar los datos necesarios dando una imagen profesional completa sin excederse, posteriormente, estos datos serán procesados por la misma tras la selección de una de las plantillas que ofrecemos para diseñar el curriculum. Habrá opciones para poder procesarlos en 1 sola página o en más de una si así lo desea el usuario. Hay que tener en cuenta que en el caso de que el usuario ingrese demasiados datos a los que una plantilla de diseño en concreto pueda procesar, será notificado pidiéndole que elija otro diseño o que especifique aquellos datos más interesantes.
 
 ## Definir el objetivo de la aplicación
 **Crear un buen curriculum de forma flexible, atractiva y rápida.**:
 
-- **¿Qué va a hacer la aplicación?** Diseñar curriculums
-- **¿Cuál es su atractivo principal?** 
-- **¿Qué problema concreto va a resolver?** 
-- **¿Qué necesidad va a cubrir?**
+- **¿Qué va a hacer la aplicación?** La aplicación va a procesar datos y exponerlos en curriculums según las plantillas preaprobadas por empresas.
+- **¿Cuál es su atractivo principal?** La facilidad y rapidez de obtener un buen curriculum sin tener que diseñarlo.
+- **¿Qué problema concreto va a resolver?** Ahorro de tiempo y evitar el riesgo de que desechen el curriculum por su diseño y contenido.
+- **¿Qué necesidad va a cubrir?** Cubre la necesidad de crear buenos curriculums en base a las preferencias de las empresas.
 
 ## Prototipo de la Interfaz del proyecto
 
