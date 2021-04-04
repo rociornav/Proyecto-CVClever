@@ -1,0 +1,3 @@
+[submodule "src/api/CVClever-API"]
+	path = src/api/CVClever-API
+	url = https://github.com/rociornav/CVClever-API.git
